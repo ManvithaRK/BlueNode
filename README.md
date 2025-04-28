@@ -148,9 +148,9 @@ This project is licensed under the [MIT License](LICENSE).
 ## Author
 
 Developed and maintained by 
+Manvitha R Kabbathi
 K Jaidev Shankar Reddy,
-Adoksh M Bharadwaj,
-Manvitha R Kabbathi and
+Adoksh M Bharadwaj,and
 Ajay S Prakash
 
 
